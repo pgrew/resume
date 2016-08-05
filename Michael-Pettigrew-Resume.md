@@ -1,8 +1,6 @@
 <div align="right">
   Michael Pettigrew<br>
-  118-A 20th Ave<br>
-  Seattle, WA 98122<br>
-  Phone: (256) 520-9853<br>
+  Seattle, WA<br>
   Email: [mike@pgrew.com](mike@pgrew.com)
 </div>
 
@@ -39,7 +37,7 @@ I contributed to as well as managed the configuration of multiple software appli
 
 Our group was also required to prove our proposed radar improvements through live test events. We wrote software tools to plan these tests. Using additional statistical analysis software, we developed a process to verify our improvements or identify shortfalls.
 
-I also designed and developed a ballistic target classification algorithm for radars using support vector machine methodology. I oversaw the project from a MATLAB prototype to a real-time C++ application. This algorithm works in real time and was implemented in an Army radar. In addition to coordinating this project with the radar prime contractor, I trained three coworkers to continue improving and developing classifier.
+I also designed and developed a ballistic target classification algorithm for radars using support vector machine methodology. I oversaw the project from a MATLAB prototype to a real-time C++ application. This algorithm works in real time and was implemented in an Army radar. In addition to coordinating this project with the radar prime contractor, I trained three coworkers to continue improving and developing the classifier.
 
 ## Skills:
 - Leadership
