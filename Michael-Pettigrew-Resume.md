@@ -5,27 +5,22 @@
 </div>
 
 ## Profile
-Multi-disciplined engineer with ten years experience. Can start and finish projects. Enjoys solving problems with others. Values honesty in communications.
+Multi-disciplined engineer with ten years experience. Can start and finish projects. Enjoys solving problems with others. Values honesty in communications. Experience with the methods the U.S. military uses to plan and execute.
 
 ## Experience
 #### COO of [Black Label Data](http://blacklabeldata.github.io/), 2015-present
-My roles are: marketing, customer development, publishing, editing, strategy, planning, and software development. Our work environment and designs utilize lean processes, including their applications to software production.
+My roles are: marketing, customer development, strategy, and software development. Our work environment and designs utilize lean processes, including their applications to software production.
 
-We are building a secure cloud file storage product.
-
-
-> Written and designed APIs. Contributed to cloud file storage project. Written technical proposals for cloud data storage and analysis.
-
-include: golang, javascript, apis,
+We are building an end-to-end encrypted and anonymous cloud file storage product.
 
 #### CEO of Analytical and Collaborative Solutions, 2012-2015
 
-My roles are to lead a small group of engineers in designing software primarily for biotech applications. I communicate with clients and team members, perform market research, track progress, write proposals and reports, and develop software.
+My roles were to lead a small group of engineers in designing software primarily for biotech applications. I communicated with clients and team members, performed market research, tracked progress, wrote proposals and reports, and developed software.
 
 
 Our team built an extendable data analysis software product. This was used to find sections of DNA that were unique to different organisms, and is currently licensed to a biotech company. We developed, for the same biotech company, image processing software to detect fluorescence in low-light conditions.
 
-We also designed software to monitor protein crystal growth by controlling a camera mounted to a three axis motor system. We control motors, liquid pumps, and cameras to measure crystal growth rates over time by autonomously capturing and processing images. This software is integrated into prototype hardware that was designed by a biotech company and will be used to gather data for a publication resulting from NASA funded research.
+We also designed software to monitor protein crystal growth by controlling a camera mounted to a three axis motor system. We controlled motors, liquid pumps, and cameras to measure crystal growth rates over time by autonomously capturing and processing images. This software is integrated into prototype hardware that was designed by a biotech company and will be used to gather data for a publication resulting from NASA funded research.
 
 #### Systems Engineer at Wyle Inc. 2009-2015
 
@@ -51,8 +46,8 @@ I also designed and developed a ballistic target classification algorithm for ra
    - Designing APIs
    - Validation
    - Configuration management
- - Languages: C++, Java, Python, Go, MATLAB, SQL, JavaScript
- - Tools: Docker, Maven, Git, Hugo, Bash, AWS, Google Cloud
+ - Languages: C++, Java, Python, Go, MATLAB, SQL, JavaScript, Bash
+ - Tools: Docker, Maven, Git, AWS, Google Cloud
 - Machine learning
  - Support vector machines
  - Response surface models
