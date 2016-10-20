@@ -5,7 +5,7 @@
 </div>
 
 ## Profile
-Multi-disciplined engineer with ten years experience. Can start and finish projects. Enjoys solving problems with others. Values honesty in communications. Experience with the methods the U.S. military uses to plan and execute.
+Multi-disciplined engineer with ten years experience. Can start and finish projects. Enjoys solving problems with others. Values honesty in communications. Experience with the methods the U.S. military uses to plan and deliver.
 
 ## Experience
 #### COO of [Black Label Data](http://blacklabeldata.github.io/), 2015-present
@@ -18,7 +18,7 @@ We are building an end-to-end encrypted and anonymous cloud file storage product
 My roles were to lead a small group of engineers in designing software primarily for biotech applications. I communicated with clients and team members, performed market research, tracked progress, wrote proposals and reports, and developed software.
 
 
-Our team built an extendable data analysis software product. This was used to find sections of DNA that were unique to different organisms, and is currently licensed to a biotech company. We developed, for the same biotech company, image processing software to detect fluorescence in low-light conditions.
+Our team built an extensible data analysis software product. This was used to find sections of DNA that were unique to different organisms, and is currently licensed to a biotech company. We developed, for the same biotech company, image processing software to detect fluorescence in low-light conditions.
 
 We also designed software to monitor protein crystal growth by controlling a camera mounted to a three axis motor system. We controlled motors, liquid pumps, and cameras to measure crystal growth rates over time by autonomously capturing and processing images. This software is integrated into prototype hardware that was designed by a biotech company and will be used to gather data for a publication resulting from NASA funded research.
 
