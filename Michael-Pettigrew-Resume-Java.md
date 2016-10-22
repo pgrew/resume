@@ -1,13 +1,14 @@
-<div align="right">
+<div align="right"; font-size="8pt";>
   Michael Pettigrew<br>
-  Seattle, WA<br>
+  118-A 20th Ave<br>
+  Seattle, WA 98122<br>
   Email: [mike@pgrew.com](mike@pgrew.com)
 </div>
 
-## Profile
+##### Profile
 Michael is a multi-disciplined engineer with ten years of software development experience. He enjoys solving problems with others, values honesty in communications, and has experience planning and deliver products.
 
-## Experience
+##### Experience
 __Chief Operating Officer, Black Label Data, 2015-present__
 
 Roles: Software developer, marketing, customer development
@@ -30,19 +31,19 @@ Objective: _Improve human survival rates against ballistic weapon attacks._ I de
 
 Objective: _Improve countermeasures against ballistic weapon attacks._ I contributed to the development of a data analysis tool suite, written in Java, that incorporates weapon system measurements, network command messages, and physical defense logic, in order to: calculate performance metrics, provide network timing validation, study target dynamics, and identify system shortfalls. I also designed and maintained the interface between these Java libraries as well as a MATLAB charting tool for system engineers.
 
-## Addition strengths
+##### Addition strengths
 __Business development and administration:__ Leadership experience in product and customer development. Coordination of multiple products across wide geographic area between collaborators. Agile practices and test-driven development provide a solid foundation for software production, planning, and group accountability.
 
 __C++:__ Designed and developed a method of real-time support vector machine based ballistic target discrimination. Radar measurements were processed and compared against a pre-trained hyperplane for classification. High accuracy discrimination improves: ballistic target detection, impact and origin location determination, and warning time to take cover.
 
 __Python:__ Co-developed coordinate transformations and other mathematical libraries. Also contributed to Global Matching Engine, a software framework for radar system performance analysis. Wrote software to plan and analyze antenna alignment, aircraft profiles, and radar test objectives using Google Earth, along with additional graphs.
 
-## Education
+##### Education
 __Master of Science in Engineering University of Alabama in Huntsville, 2015__
 
 __Bachelor of Science in Electrical Engineering University of Alabama in Huntsville, 2009__
 
-## Personal
+##### Personal
 I am blessed with the time to write, cook, and read. I seek with enthusiasm big and difficult ideas.
 
 References are available upon request.
